@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SpiralTower
+- 👀 I am interested in reading some books and watching animation
+- 🌱 I’m currently learning how to write good code
