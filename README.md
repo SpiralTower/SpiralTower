@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @SpiralTower
-- 👀 I am interested in reading some books and watching animation
-- 🌱 I’m currently learning how to write good code
+- 👀 I am interested in reading some books,watching animation and making happy and funny videos<br>
+- 🌱 I am currently learning how to write good code<br>
+- 🎈 I am preparing for a bilibili wallpaper and progress bar dressing project
